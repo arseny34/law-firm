@@ -198,20 +198,20 @@ body {
 .slick-prev {
   left: 0;
 }
-.about {
+.services {
   padding: 50px 0px 30px;
 }
-.about_top {
+.services_top {
   display: flex;
   justify-content: space-between;
   margin-bottom: 50px;
 }
-.about_title-box {
+.services_title-box {
   max-width: 520px;
   padding-left: 140px;
   position: relative;
 }
-.about_title-box:before {
+.services_title-box:before {
   content: "";
   position: absolute;
   width: 100px;
@@ -220,7 +220,7 @@ body {
   left: 0;
   top: 11px;
 }
-.about_title {
+.services_title {
   font-family: "Roboto", sans-serif;
   font-size: 24px;
   font-weight: 500;
@@ -228,10 +228,10 @@ body {
   color: #212020;
   margin-bottom: 10px;
 }
-.about_text {
+.services_text {
   letter-spacing: 0.1px;
 }
-.about_btn a {
+.services_btn a {
   font-family: "Roboto", sans-serif;
   line-height: 24px;
   letter-spacing: 0.25px;
@@ -239,11 +239,11 @@ body {
   padding: 5px 38px;
   border: 3px solid #e6e6e6;
 }
-.about_items {
+.services_items {
   display: flex;
   justify-content: space-between;
 }
-.about_item {
+.services_item {
   max-width: 360px;
   text-align: center;
   padding: 30px 0px 80px;
@@ -252,7 +252,7 @@ body {
   background-color: #f9f9f9;
   box-shadow: 0px 7px 24.3px 2.7px rgba(91, 89, 89, 0.14);
 }
-.about_item-title {
+.services_item-title {
   font-family: "Roboto", sans-serif;
   color: #212020;
   font-size: 18px;
@@ -260,26 +260,25 @@ body {
   font-weight: 500;
   padding: 24px 0px;
 }
-.about_item-text {
+.services_item-text {
   letter-spacing: 0.1px;
   padding: 0px 30px 30px;
 }
-.about_item-btn {
+.services_item-btn {
   position: absolute;
   bottom: 40px;
   left: 0px;
   right: 0px;
 }
-.about_item-btn .default-btn {
+.services_item-btn .default-btn {
   color: #373636;
 }
-.about_item-btn .default-btn:after {
+.services_item-btn .default-btn:after {
   color: #fff;
 }
-.about_item-link {
+.services_item-link {
   font-family: "Roboto", sans-serif;
   color: #050505;
   border-bottom: 1px solid #050505;
   margin-right: 60px;
 }
-
