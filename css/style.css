@@ -593,12 +593,8 @@ body {
 }
 .footer_map {
   padding-top: 10px;
-  mix-width: 630px;
+  max-width: 630px;
 }
-/* .footer_map iframe {
-  height: 250px;
-  width: 100%;
-} */
 .footer_title {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -653,4 +649,22 @@ body {
   padding: 8px 0;
   line-height: 24px;
   font-weight: 400;
+}
+#modal {
+  width: 300px;
+}
+#modal input {
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  outline: none;
+  height: 40px;
+  border: 1px solid #e6e6e6;
+  padding: 0px 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+#modal input[type="submit"] {
+  background-color: #ffc222;
+  border: none;
 }
