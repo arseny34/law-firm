@@ -594,6 +594,10 @@ body {
 .footer_map {
   padding-top: 10px;
   max-width: 630px;
+  width: 100%;
+}
+.footer_map iframe {
+  width: 100%;
 }
 .footer_title {
   font-family: "Roboto", sans-serif;
@@ -667,4 +671,8 @@ body {
 #modal input[type="submit"] {
   background-color: #ffc222;
   border: none;
+}
+.header_btn-menu {
+  display: none;
+  font-size: 28px;
 }
