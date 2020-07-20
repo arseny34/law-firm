@@ -1,7 +1,6 @@
-<h1> Law Firm </h1>
+<h1> Law Firm (landing) </h1>
 
-<ul> landing:
   <li> fancybox
   <li> slickslider
   <li> google map
-</ul>
+
