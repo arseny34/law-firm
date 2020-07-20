@@ -1,6 +1,6 @@
-First Project
+<h1> Law Firm
 
-<ul>landing:
+landing:
   <li> fancybox
   <li> slickslider
   <li> google map
