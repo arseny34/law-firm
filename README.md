@@ -1,6 +1,6 @@
 First Project
 
-landing:
+<li> landing:
   +ul fancybox
   +ul slickslider
   +ul google map
